@@ -1,0 +1,15 @@
+li a {
+    color:white;
+    text-decoration:none;
+}
+
+li {
+    list-style:none;
+}
+body {
+    padding:30px;
+    background: white url("images/background.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-size:45px;
+}
